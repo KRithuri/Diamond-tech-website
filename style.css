@@ -1,0 +1,21 @@
+
+header{
+    background: lightblue;
+}
+header ul li a:hover{
+    background: lightcyan;
+    transition: 0.5s;
+}
+.my-5{
+    background:lightcyan;
+}
+.contact-us{
+    background: lightcyan;
+}
+footer{
+    background: lightblue;
+}
+footer ul li a:hover{
+    background: lightcyan;
+    transition: 0.5s;
+}
