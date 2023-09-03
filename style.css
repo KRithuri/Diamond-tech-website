@@ -19,3 +19,14 @@ footer ul li a:hover{
     background: lightcyan;
     transition: 0.5s;
 }
+button {
+    background: rgb(156, 194, 207);
+    border: 1px solid transparent;
+    border-radius: .25rem;
+ 
+}
+@media screen and (max-width: 767px) {
+    body {
+      background-color: #fff;
+    }
+  }
